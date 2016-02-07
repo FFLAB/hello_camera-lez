@@ -2,4 +2,4 @@
 App demo fotocamera plugin
 
 Codice opensource <br>
-Realizzato per le lezioni Phonegap - Scuola Mohole
+Realizzato a scopo unicamente didattico,<br>per le lezioni Phonegap - Scuola Mohole
