@@ -1,0 +1,17 @@
+body{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 19px;
+    font-weight: 600;
+    background-color: #ccc;
+}
+main{
+    margin: 0 auto;
+    text-align: center;
+   
+}
+main button{
+    margin-top: 200px;
+    background-color: #444;
+    color: white;
+    border-radius: 10px;
+}
